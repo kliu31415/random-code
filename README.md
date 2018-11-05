@@ -1,3 +1,5 @@
+All tests done on an Intel i5-6300HQ
+
 Radix sorting vs std::sort results:  
 
 32768 elements-----------------------  
